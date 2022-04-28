@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>False|2022-04-27T12:41:55.5760104Z;True|2022-04-27T15:41:22.7934931+03:00;False|2022-04-27T15:40:52.4702517+03:00;True|2022-04-27T15:40:08.4537385+03:00;True|2022-04-27T15:33:55.9199390+03:00;True|2022-04-27T15:28:25.4032071+03:00;True|2022-04-27T15:27:55.9886090+03:00;False|2022-04-27T15:27:41.8437762+03:00;False|2022-04-27T15:27:19.1520099+03:00;True|2022-04-27T15:24:00.8469574+03:00;True|2022-04-27T15:23:21.5332902+03:00;True|2022-04-27T15:13:49.6504619+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="EmployeeAppCon">
+      <Value>Data Source=.%3bInitial Catalog=EmployeeDB%3b Integrated Security=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

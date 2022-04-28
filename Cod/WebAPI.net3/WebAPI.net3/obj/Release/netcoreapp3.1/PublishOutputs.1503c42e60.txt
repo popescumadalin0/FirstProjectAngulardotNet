@@ -1,0 +1,17 @@
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI.net3.exe
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI.net3.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI.net3.deps.json
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI.net3.runtimeconfig.json
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI.net3.pdb
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tools\Tools\Projects\TutorialWebApp\WebAPI.net3\WebAPI.net3\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
